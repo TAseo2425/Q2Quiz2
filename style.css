@@ -21,3 +21,13 @@ body{
 img{
     width: 50px;
 }
+
+footer {
+    text-align: center;
+    background-color: #429B76;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
