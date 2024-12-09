@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+	color: #9CBC7E;
+    font-family: "Geist Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+#header{
+	text-align: center;
+}
+
+.container {
+    padding:20px;
+    margin-top:30px;
+    border-radius:30px;
+    background-color: #476E6E;
+}
+
+img{
+    width: 50px;
+}
